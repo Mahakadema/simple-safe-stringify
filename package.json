@@ -1,0 +1,20 @@
+{
+  "name": "simple-safe-stringify",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A fast, simple, solution to stringifying circular JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "json",
+    "json.stringify",
+    "circular",
+    "safe",
+    "bigint",
+    "stringify"
+  ],
+  "author": "mahakadema",
+  "license": "MIT"
+}
