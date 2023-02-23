@@ -1,6 +1,6 @@
 {
   "name": "simple-safe-stringify",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "description": "A fast, simple, solution to stringifying circular JSON",
   "main": "index.js",
