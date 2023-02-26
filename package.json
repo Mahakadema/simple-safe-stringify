@@ -16,5 +16,13 @@
     "stringify"
   ],
   "author": "mahakadema",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahakadema/simple-safe-stringify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mahakadema/simple-safe-stringify/issues"
+  },
+  "homepage": "https://github.com/Mahakadema/simple-safe-stringify"
 }
